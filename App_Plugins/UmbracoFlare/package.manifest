@@ -1,0 +1,15 @@
+﻿{
+  "javascript": [
+    "~/App_Plugins/UmbracoFlare/backoffice/js/resources/cloudflare.resource.js",
+    "~/App_Plugins/UmbracoFlare/backoffice/js/resources/modal.service.js",
+    "~/App_Plugins/UmbracoFlare/backoffice/js/controllers/cloudflare.menu.controller.js",
+    "~/App_Plugins/UmbracoFlare/backoffice/js/controllers/infomodal.controller.js",
+    "~/App_Plugins/UmbracoFlare/backoffice/js/controllers/confirmmodal.controller.js",
+    "~/App_Plugins/UmbracoFlare/backoffice/js/directives/blur.directive.js",
+    "~/App_Plugins/UmbracoFlare/backoffice/js/directives/bnModals.directive.js"
+  ],
+  "css": [
+    "~/App_Plugins/UmbracoFlare/Assets/CSS/styles.css",
+    "~/App_Plugins/UmbracoFlare/Assets/Icons/Icons.css"
+  ]
+}
